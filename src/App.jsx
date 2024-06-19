@@ -12,6 +12,48 @@ function App() {
       bio: 'Software engineer with a passion for open-source projects.'
     },
     {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
+      name: 'John Doe',
+      age: 30,
+      profilePicture: 'https://via.placeholder.com/100',
+      bio: 'Software engineer with a passion for open-source projects.'
+    },
+    {
       name: 'Jane Smith',
       age: 25,
       profilePicture: 'https://via.placeholder.com/100',
